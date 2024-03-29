@@ -10,7 +10,8 @@ Instalação nodemailer: https://www.npmjs.com/package/nodemailer
 
 ### Para utilizar o codigo:
 Faça um fork para seu repositório
-Use git clone git@github.com:claudioares/authoEmail.git
+Use: 
+`git clone git@github.com:claudioares/authoEmail.git`
 
 Para iniciar o projeto:
 node index.js
